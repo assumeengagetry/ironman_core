@@ -51,7 +51,7 @@ src
 
 ### 4. Arduino烧录与程序调试
 
-- 下载并安装Arduino IDE。
+- 下载并安装Arduino IDE（1.8左右 ，我是1.8.16）。
 - 将提供的代码上传到Arduino开发板。
 
 ## 代码
